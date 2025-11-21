@@ -23,7 +23,7 @@ Each task now includes a priority indicator (e.g., Low, Medium, High) to help us
 
 A checkbox has been added to each task item, allowing users to mark tasks as completed directly from the list.
 
-*** Screenshot and GIF are located in the media file. ***
+*** Screenshot and GIF are located in the PNG and GIF file. ***
 
 These features were carefully integrated into the existing MVVM structure by modifying:
 
